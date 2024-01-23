@@ -1,2 +1,3 @@
-# exercicios-em-c
- Exercícios em C, tipos de variaveis, condicionais, laços de repetição...
+# C and C++ Practice
+ This is where I upload my **C** and **C++** exercises
+
