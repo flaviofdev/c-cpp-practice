@@ -9,7 +9,7 @@ void drawBorder(){
 int main(){
 
     drawBorder();
-    p("Hello World!\n");
+    printf("Hello World!\n");
     drawBorder();
 
     return 0;
